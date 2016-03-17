@@ -1,0 +1,1 @@
+It was very hard to find a good resource for using [gensim](https://github.com/piskvorky/gensim/)'s doc2vec. A lot of the work here is derived from [this post](https://linanqiu.github.io/2015/10/07/word2vec-sentiment/) with some tweaks given my own format of training data.
