@@ -1,0 +1,3 @@
+56e7725638d word2vec is a group of related models that are used to produce socalled word embeddings these models are shallow twolayer neural networks that are trained to reconstruct linguistic contexts of words: the network is shown a word and must guess which words occurred in adjacent positions in an input text the order of the remaining words is not important bagofwords assumption
+56e7600838f skip grams are word windows from which one word is excluded an ngram with gaps with skipgrams given a window size of n words around a word w word2vec predicts contextual words c ie in the notation of probability conversely cbow predicts the current word given the context in the window
+
